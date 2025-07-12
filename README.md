@@ -1,5 +1,5 @@
 # planeapp
-what can be done on on a planeflight from slc to orlando
+what can be done on on a planeflight from slc to orlando...vibe coding with an agent
 
 ---
 
